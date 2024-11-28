@@ -27,6 +27,7 @@ fpga/reference_design/digilent_nexys/*_funcsim.v
 fpga/reference_design/digilent_nexys/*_funcsim.vhdl
 fpga/reference_design/digilent_nexys/.project
 fpga/reference_design/digilent_nexys/*.xpr
+fpga/reference_design/digilent_nexys/build
 
 # [dir]
 fpga/reference_design/digilent_nexys/*.cache
